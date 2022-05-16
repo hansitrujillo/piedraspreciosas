@@ -1,0 +1,49 @@
+<Html>
+<Head>
+<p>
+<h1><p align="center"> <i>
+<marquee>Piedras presiosas</marquee>
+<br>
+Hansi Trujillo Torres 405
+</h1>
+</font>
+</p>
+</Head>
+<body>
+<body bgcolor="FFC0CB">
+<br>
+<center>
+<table border="0">
+<tr>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Inicio.html">Inicio</href></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Mohs.html">Mohs</href></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Origen.html">Origen</href></td>
+</tr>
+</table>
+</center>
+<p align="center">
+<font face="arial">
+Hay diferentes formas de clasificar las piedras presiosas y semipresiosas, en su mayoria de origen mineralaunque tambien las hay que proceden de seres vivos, como es el caso del ámbar y las perlas. Aqui nos centraremos en las dos grandes categorias en las que podemos dividirlas.
+<img src="https://d500.epimg.net/cincodias/imagenes/2020/09/10/fortunas/1599738452_589961_1599739513_sumario_normal.jpg">
+<font color=#F0F8FF> <p align="center">
+1.- Diamante: El diamante es la sustancia mas dura que se conoce del planeta Tierra, con un valor de 10 Mohs, propiedad llamativa pero que no es la unica que lo hace destacar de otras piedras, puesto que este mineral tiene tambien la peculiaridad de estar hecho de un solo elemento:carbono
+<br> </font> <p align="center">
+<img src=https://upload.wikimedia.org/wikipedia/commons/4/49/Corundum-winza-17d.jpg>
+<font color=#FF0000> <p align="center">
+2.- Rubi: El nombre de rubi proviene del latin "ruber", que significa rojo,haciendo alucion a su principal caracteristica fisica. Su color rojo es intenso y brillante debido a los metales que componen este mineral, el hierro y el cromo
+<br> </font>
+<img src=https://www.joyeriaplaor.com/blog/wp-content/uploads/2016/06/zafiro.jpg>
+<font color=#4169E1> <p align="center">
+3.- Zafiro azul: El zafiro azul pertenece a la familia del corindon, como el rubi y, de hecho, se podrian considerar que son rubies solo que de tonalidades azules. Si bien es cierto que hay zafiros de otras tonalidades, los azules son los mas codiciados por su singular belleza y rareza.
+<br> </font>
+<img src=https://st.depositphotos.com/1000559/1374/i/600/depositphotos_13749136-stock-photo-heart-shaped-diamond-isolated-emerald.jpg>
+<font color=#006400> <p align="center">
+4.- Esmeralda: El nombre de la esmeralda proviene del griego "smaragdos" que se cree que es un prestamo linguistico tomado de alguna lengua semitica en la que esa palabra debia significar literalmente "piedra verde", haciendo alucion a su llamativo color. Este mineral pertenece a la familia del berilio y posee una dureza de 8 en la escala de Mohs.
+</font>
+<p align="center"> Tambien nos puede contactar por las siguientes redes sociales 
+<p align="center">Whatsapp:9213038519</p>
+<p align="center">Facebook:Trujillo Hansi</p>
+</body>
+</html>

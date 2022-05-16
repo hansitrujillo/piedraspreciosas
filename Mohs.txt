@@ -1,0 +1,67 @@
+<Html>
+<head>
+<title>Escala de mohs</title>
+<h1><p align="center" > <i>
+Piedras presiosas <br>
+ESCALA DE MOHS
+</h1>
+</font>
+</p>
+</head>
+<center>
+<table border="0">
+<tr>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Inicio.html">Inicio</href></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Mohs.html">Mohs</href></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Origen.html">Origen</href></td>
+</tr>
+</table>
+</center>
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<body bgcolor="FFC0CB">
+<table border="1" width:"100%">
+<thead bgcolor="EE82EE">
+<tr>
+<th>Piedra</th>
+<th>Puesto en la escala de mohs</th>
+<th>Componentes químicos</th>
+</tr>
+</thead>
+
+<tbody align="center" bgcolor="87CEEB">
+<tr>
+<td>Diamante</td>
+<td>10</td>
+<td>Carbono (C)</td>
+</tr>
+
+<tr>
+<td>Rubí</td>
+<td>9</td>
+<td>Óxido de aluminio (Al2O3) y óxido de cromo (CrO3)</td>
+</tr>
+
+<tr>
+<td>Zafiro azul</td>
+<td>9</td>
+<td>Óxido de aluminio (Al2O3)</td>
+</tr>
+
+<tr>
+<td>Esmeralda</td>
+<td>7.5 a 8</td>
+<td>Es la variedad verde del berilo, un mineral ciclosilicato de berilio y aluminio de fórmula química Be3Al2(SiO3)6, que contiene además pequeñas cantidades de cromo y, en algunos casos, vanadio, que le proporcionan su característico color verde</td>
+</tr>
+</tbody>
+</table>
+<p align="center"> Tambien nos puede contactar por las siguientes redes sociales 
+<p align="center">Whatsapp:9213038519</p>
+<p align="center">Facebook:Trujillo Hansi</p>
+</body>

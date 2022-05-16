@@ -1,0 +1,20 @@
+<Html>
+<head>
+<title>menu</title>
+</head>
+<body color="FFC0CB">
+<br>
+<center>
+<table border="0">
+<tr>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Inicio.html">Inicio</href></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Mohs.html">Mohs</href></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><a href="file:///C:/Users/Asus/Desktop/paginahtt/Origen.html">Origen</href></td>
+</tr>
+</table>
+</center>
+
+</body>
+</Html>
